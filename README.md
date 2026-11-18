@@ -2,6 +2,10 @@
 
 A moodboard for your reference pictures on the Mac. Drop in photos (RAW too), videos, PDFs, audio, YouTube and web links, notes and sketches, arrange them on an endless board, and save the whole board as one `.rref` file you can send to anyone with RRefBoard.
 
+## Watch the 1-minute tour
+
+https://github.com/user-attachments/assets/ed85308c-21a8-4660-85c7-57e610216804
+
 ## Download
 
 **[⬇︎ Download the newest version](https://github.com/robertarnar98/RRefBoard-Download/releases/latest)**: click **RRefBoard.dmg** under *Assets*.
