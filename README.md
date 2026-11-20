@@ -4,7 +4,7 @@ A moodboard for your reference pictures on the Mac. Drop in photos (RAW too), vi
 
 ## Watch the 1-minute tour
 
-https://github.com/user-attachments/assets/ed85308c-21a8-4660-85c7-57e610216804
+https://github.com/user-attachments/assets/1b6ffd22-af19-49e1-b011-89f7ca8f9cc0
 
 ## Download
 
