@@ -15,12 +15,16 @@ RRefBoard is made by Tungl Media (Iceland). Last updated 23 November 2026. This 
 
 **Updates (Mac).** A few seconds after RRefBoard opens, and every few hours while it's open, it asks RRefBoard's own download page on GitHub whether there's a newer version. The request says only that it's RRefBoard and its version number; nothing about you, your Mac or your boards is sent. GitHub sees it like any web visit (GitHub's privacy statement: https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement). Updates are only installed when you click Update Now, and only if they carry Tungl Media's signature.
 
-**When else RRefBoard goes online.** Only for link cards and video cards, and only to the site the card points to:
+**When else RRefBoard goes online.** Only for link cards, video cards and Pinterest boards you import, and only to the site in question:
 
 - **Link cards** ask the linked web page once for its preview picture and title (the same ones Messages and Slack show). Google Docs, Sheets and Slides links ask Google for the file's thumbnail. The site sees an ordinary request from your internet address. The preview is then kept on your device.
 - **YouTube cards** fetch the video's preview picture from YouTube once. When you press play, the video plays in YouTube's privacy-enhanced embedded player (youtube-nocookie.com), so YouTube's own terms and privacy policy apply to that playback:
   - YouTube Terms of Service: https://www.youtube.com/t/terms
   - Google Privacy Policy: https://policies.google.com/privacy
+- **Instagram cards** (a reel or post link) ask Instagram's embed page (the one web sites use to show a post) once for the cover picture and the account name, without cookies or any sign-in. On the Mac, when you press play on a reel, it plays in Instagram's own embedded player; nothing from that player is kept after it stops. Instagram's terms and privacy policy apply to that playback:
+  - Instagram Terms of Use: https://help.instagram.com/581066165581870
+  - Meta Privacy Policy: https://privacycenter.instagram.com/policy
+- **Import Board from Pinterest** (Mac: paste a board link or File ▸ Import Board from Pinterest; iPhone: a board link in Add Link, or shared from the Pinterest app) asks Pinterest for that board's public list of pins and downloads their pictures, only when you import it. Pinterest sees an ordinary request from your internet address, without cookies or any sign-in. Pinterest's privacy policy: https://policy.pinterest.com/privacy-policy
 - **Links on pictures** are only stored. RRefBoard never opens them unless you click them, and then they open in your browser.
 
 Link previews also apply to link cards other people add to a board you share.
